@@ -1,6 +1,8 @@
 site_name: RoBaertschi
 site_url: https://robaertschi.github.io
 
+theme: material
+
 nav:
   - Home: 'index.md'
   - About Me: 'aboutme.md'
