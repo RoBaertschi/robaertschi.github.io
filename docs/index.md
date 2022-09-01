@@ -13,3 +13,4 @@ Here you will find the Docs of all Minecraft Mods and also oder stuff.
 # Projects
 
 [Here you will find all my Projects.](projects.md)
+
