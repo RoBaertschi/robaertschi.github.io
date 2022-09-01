@@ -6,12 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://robaertschi.github.io/about/</loc>
+         <loc>https://robaertschi.github.io/aboutme/</loc>
          <lastmod>2022-09-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://robaertschi.github.io/aboutme/</loc>
+         <loc>https://robaertschi.github.io/projects/</loc>
+         <lastmod>2022-09-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://robaertschi.github.io/minetech/api/</loc>
+         <lastmod>2022-09-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://robaertschi.github.io/minetech/minetech/</loc>
          <lastmod>2022-09-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
