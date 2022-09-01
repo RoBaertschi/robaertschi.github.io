@@ -2,5 +2,10 @@ site_name: RoBaertschi
 site_url: https://robaertschi.github.io
 
 nav:
-  - Home: index.md
-  - About Me: aboutme.md
+  - Home: 'index.md'
+  - About Me: 'aboutme.md'
+  - Projects: 
+    - Projects: 'projects.md'
+    - Minetech:
+      - Minetech: 'minetech/minetech.md'
+      - API (WIP): 'minetech/api.md'
