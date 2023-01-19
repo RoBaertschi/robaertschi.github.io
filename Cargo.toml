@@ -1,0 +1,13 @@
+[package]
+name = "robaertschi"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gloo = "0.8.0"
+js-sys = "0.3.60"
+web-sys = { version = "0.3.60", features = ["Document", "NodeList", "EventTarget"] }
+ybc = "0.2.1"
+yew = { version = "0.20.0", features = ["csr"] }
