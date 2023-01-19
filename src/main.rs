@@ -47,7 +47,14 @@ fn app() -> Html {
             <section>
                 <div class="container content">
                     <h1 class={classes!("title")}>{ "Welcome to RoBaertschi's Website" }</h1>
-                    
+                    <p>{"Here you'll find some of my Projects. Here a list of my Projects that i am currently working on."}</p>
+                    <ul>
+                        <li>
+                            <a>
+                                {"Minecraft Getting Started with Modding Book"}
+                            </a>
+                        </li>
+                    </ul>
                 </div>
             </section>
 
