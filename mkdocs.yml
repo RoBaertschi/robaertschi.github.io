@@ -16,6 +16,3 @@ nav:
   - About Me: 'aboutme.md'
   - Projects: 
     - Projects: 'projects.md'
-    - Minetech:
-      - Minetech: 'minetech/minetech.md'
-      - API (WIP): 'minetech/api.md'
